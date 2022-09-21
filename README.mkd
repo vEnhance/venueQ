@@ -1,3 +1,9 @@
+# Notice
+
+This repository was merged into [vEnhance's dotfiles](https://github.com/vEnhance/dotfiles/venueQ), since it was becoming a nuisance to maintain a separate submodule.
+
+-----------------------
+
 ```
 ░▄░░░▄░█▀▀░█▀▀▄░█░▒█░█▀▀░▒█▀▀█
 ░░█▄█░░█▀▀░█░▒█░█░▒█░█▀▀░▒█░▒█
